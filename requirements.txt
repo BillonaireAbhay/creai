@@ -1,0 +1,13 @@
+crewai==0.28.8
+crewai_tools==0.1.6
+langchain_community==0.0.29
+langchain-core==0.1.53
+langsmith==0.1.147
+openai
+python-dotenv
+sqlalchemy==1.4.49
+requests
+beautifulsoup4
+orjson
+requests-toolbelt
+streamlit
